@@ -1,0 +1,26 @@
+node_modules/
+data/
+certs/
+.npm-cache/
+.env
+.env.*
+!.env.example
+.npmrc
+*.db
+*.db-*
+*.sqlite*
+*.pem
+*.key
+*.p12
+*.pfx
+*.cer
+*.crt
+*.csr
+*.srl
+*.log
+.DS_Store
+Thumbs.db
+coverage/
+playwright-report/
+test-results/
+/трекер привычек.md
